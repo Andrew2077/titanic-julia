@@ -94,7 +94,7 @@
                 });
                 const survivedCode = parseInt(await response.text());
                 console.log(survivedCode);
-                document.getElementById("survived").innerHTML = survivedCode ? "YES" : "NO"
+                document.getElementById("survived").innerHTML = survivedCode ? "Survived" : "Didn't Make it"
                 document.getElementById("survived").style.color = survivedCode ? "green" : "red";
             })
         </script>
