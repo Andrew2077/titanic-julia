@@ -40,13 +40,13 @@ Kaggle's Titanic ML competition introduces ML beginners to predict passenger sur
 
 ## Insights
 - Death vs survival rate 
-![](msc/survived_not_survived.png)
+- ![](msc/survived_not_survived.png)
 
 - Death by Class
-![](msc/death_by_class.png)
+- ![](msc/death_by_class.png)
 
 - Suvival rate by gender
-![](msc/survive_by_gender.png)
+- ![](msc/survive_by_gender.png)
 
 ## Modeling
 
