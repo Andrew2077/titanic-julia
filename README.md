@@ -96,11 +96,15 @@ Supporting the insights
 - Death occured more among 3d class passengers
 - Males had more chance of Survival 
   
+
 sample 1 - Female Death 
--![](msc/female1.png)
+
+![](msc/female1.png)
 
 sample 2 - Male Death
--![](msc/male1.png)
+
+![](msc/male1.png)
 
 sample 3 - male Survival 
--![](msc/male2.png)
+
+![](msc/male2.png)
