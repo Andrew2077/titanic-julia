@@ -78,8 +78,8 @@ seed = 3
 
 ```
 
-- Model achieved 0.8650168728908887 on training data
-- model achieved 0.8968824940047961 on test data
+- Model achieved accuracy of `86.5%` on training data
+- model achieved accuracy of `89.7%` on test data
 
 ## Deployment
 Deployed the Created model into a web application:
